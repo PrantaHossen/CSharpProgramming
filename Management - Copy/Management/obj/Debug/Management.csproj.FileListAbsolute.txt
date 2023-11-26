@@ -1,0 +1,8 @@
+C:\Users\Pranta Hossen\source\repos\Management\Management\bin\Debug\Management.exe.config
+C:\Users\Pranta Hossen\source\repos\Management\Management\bin\Debug\Management.exe
+C:\Users\Pranta Hossen\source\repos\Management\Management\bin\Debug\Management.pdb
+C:\Users\Pranta Hossen\source\repos\Management\Management\obj\Debug\Management.csproj.AssemblyReference.cache
+C:\Users\Pranta Hossen\source\repos\Management\Management\obj\Debug\Management.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pranta Hossen\source\repos\Management\Management\obj\Debug\Management.csproj.CoreCompileInputs.cache
+C:\Users\Pranta Hossen\source\repos\Management\Management\obj\Debug\Management.exe
+C:\Users\Pranta Hossen\source\repos\Management\Management\obj\Debug\Management.pdb

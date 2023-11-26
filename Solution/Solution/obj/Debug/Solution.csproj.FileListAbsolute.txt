@@ -1,0 +1,8 @@
+C:\Users\Pranta Hossen\source\repos\Solution\Solution\obj\Debug\Solution.csproj.AssemblyReference.cache
+C:\Users\Pranta Hossen\source\repos\Solution\Solution\obj\Debug\Solution.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pranta Hossen\source\repos\Solution\Solution\obj\Debug\Solution.csproj.CoreCompileInputs.cache
+C:\Users\Pranta Hossen\source\repos\Solution\Solution\bin\Debug\Solution.exe.config
+C:\Users\Pranta Hossen\source\repos\Solution\Solution\bin\Debug\Solution.exe
+C:\Users\Pranta Hossen\source\repos\Solution\Solution\bin\Debug\Solution.pdb
+C:\Users\Pranta Hossen\source\repos\Solution\Solution\obj\Debug\Solution.exe
+C:\Users\Pranta Hossen\source\repos\Solution\Solution\obj\Debug\Solution.pdb

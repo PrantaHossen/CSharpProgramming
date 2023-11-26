@@ -1,0 +1,8 @@
+D:\Needed\Coding\Visual studio\Infromation\Infromation\bin\Debug\Infromation.exe.config
+D:\Needed\Coding\Visual studio\Infromation\Infromation\bin\Debug\Infromation.exe
+D:\Needed\Coding\Visual studio\Infromation\Infromation\bin\Debug\Infromation.pdb
+D:\Needed\Coding\Visual studio\Infromation\Infromation\obj\Debug\Infromation.csproj.AssemblyReference.cache
+D:\Needed\Coding\Visual studio\Infromation\Infromation\obj\Debug\Infromation.csproj.SuggestedBindingRedirects.cache
+D:\Needed\Coding\Visual studio\Infromation\Infromation\obj\Debug\Infromation.csproj.CoreCompileInputs.cache
+D:\Needed\Coding\Visual studio\Infromation\Infromation\obj\Debug\Infromation.exe
+D:\Needed\Coding\Visual studio\Infromation\Infromation\obj\Debug\Infromation.pdb

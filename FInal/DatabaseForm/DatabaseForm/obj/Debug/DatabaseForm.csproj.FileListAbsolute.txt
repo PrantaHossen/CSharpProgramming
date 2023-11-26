@@ -1,0 +1,12 @@
+D:\Needed\Coding\Visual studio\FInal\DatabaseForm\DatabaseForm\bin\Debug\DatabaseForm.exe.config
+D:\Needed\Coding\Visual studio\FInal\DatabaseForm\DatabaseForm\bin\Debug\DatabaseForm.exe
+D:\Needed\Coding\Visual studio\FInal\DatabaseForm\DatabaseForm\bin\Debug\DatabaseForm.pdb
+D:\Needed\Coding\Visual studio\FInal\DatabaseForm\DatabaseForm\obj\Debug\DatabaseForm.csproj.AssemblyReference.cache
+D:\Needed\Coding\Visual studio\FInal\DatabaseForm\DatabaseForm\obj\Debug\DatabaseForm.csproj.SuggestedBindingRedirects.cache
+D:\Needed\Coding\Visual studio\FInal\DatabaseForm\DatabaseForm\obj\Debug\DatabaseForm.Form1.resources
+D:\Needed\Coding\Visual studio\FInal\DatabaseForm\DatabaseForm\obj\Debug\DatabaseForm.Properties.Resources.resources
+D:\Needed\Coding\Visual studio\FInal\DatabaseForm\DatabaseForm\obj\Debug\DatabaseForm.csproj.GenerateResource.cache
+D:\Needed\Coding\Visual studio\FInal\DatabaseForm\DatabaseForm\obj\Debug\DatabaseForm.csproj.CoreCompileInputs.cache
+D:\Needed\Coding\Visual studio\FInal\DatabaseForm\DatabaseForm\obj\Debug\DatabaseForm.exe
+D:\Needed\Coding\Visual studio\FInal\DatabaseForm\DatabaseForm\obj\Debug\DatabaseForm.pdb
+D:\Needed\Coding\Visual studio\FInal\DatabaseForm\DatabaseForm\obj\Debug\DatabaseForm.demo2.resources

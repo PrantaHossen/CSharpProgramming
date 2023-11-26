@@ -1,0 +1,8 @@
+C:\Users\Pranta Hossen\source\repos\HistoryEmployee\HistoryEmployee\bin\Debug\HistoryEmployee.exe.config
+C:\Users\Pranta Hossen\source\repos\HistoryEmployee\HistoryEmployee\bin\Debug\HistoryEmployee.exe
+C:\Users\Pranta Hossen\source\repos\HistoryEmployee\HistoryEmployee\bin\Debug\HistoryEmployee.pdb
+C:\Users\Pranta Hossen\source\repos\HistoryEmployee\HistoryEmployee\obj\Debug\HistoryEmployee.csproj.AssemblyReference.cache
+C:\Users\Pranta Hossen\source\repos\HistoryEmployee\HistoryEmployee\obj\Debug\HistoryEmployee.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pranta Hossen\source\repos\HistoryEmployee\HistoryEmployee\obj\Debug\HistoryEmployee.csproj.CoreCompileInputs.cache
+C:\Users\Pranta Hossen\source\repos\HistoryEmployee\HistoryEmployee\obj\Debug\HistoryEmployee.exe
+C:\Users\Pranta Hossen\source\repos\HistoryEmployee\HistoryEmployee\obj\Debug\HistoryEmployee.pdb

@@ -1,0 +1,11 @@
+D:\Needed\Coding\Visual studio\FInal\Informataion\Informataion\bin\Debug\Informataion.exe.config
+D:\Needed\Coding\Visual studio\FInal\Informataion\Informataion\bin\Debug\Informataion.exe
+D:\Needed\Coding\Visual studio\FInal\Informataion\Informataion\bin\Debug\Informataion.pdb
+D:\Needed\Coding\Visual studio\FInal\Informataion\Informataion\obj\Debug\Informataion.csproj.AssemblyReference.cache
+D:\Needed\Coding\Visual studio\FInal\Informataion\Informataion\obj\Debug\Informataion.csproj.SuggestedBindingRedirects.cache
+D:\Needed\Coding\Visual studio\FInal\Informataion\Informataion\obj\Debug\Informataion.Form1.resources
+D:\Needed\Coding\Visual studio\FInal\Informataion\Informataion\obj\Debug\Informataion.Properties.Resources.resources
+D:\Needed\Coding\Visual studio\FInal\Informataion\Informataion\obj\Debug\Informataion.csproj.GenerateResource.cache
+D:\Needed\Coding\Visual studio\FInal\Informataion\Informataion\obj\Debug\Informataion.csproj.CoreCompileInputs.cache
+D:\Needed\Coding\Visual studio\FInal\Informataion\Informataion\obj\Debug\Informataion.exe
+D:\Needed\Coding\Visual studio\FInal\Informataion\Informataion\obj\Debug\Informataion.pdb

@@ -1,0 +1,8 @@
+D:\Needed\Coding\Visual studio\TaskExample\TaskExample\bin\Debug\TaskExample.exe.config
+D:\Needed\Coding\Visual studio\TaskExample\TaskExample\bin\Debug\TaskExample.exe
+D:\Needed\Coding\Visual studio\TaskExample\TaskExample\bin\Debug\TaskExample.pdb
+D:\Needed\Coding\Visual studio\TaskExample\TaskExample\obj\Debug\TaskExample.csproj.AssemblyReference.cache
+D:\Needed\Coding\Visual studio\TaskExample\TaskExample\obj\Debug\TaskExample.csproj.SuggestedBindingRedirects.cache
+D:\Needed\Coding\Visual studio\TaskExample\TaskExample\obj\Debug\TaskExample.csproj.CoreCompileInputs.cache
+D:\Needed\Coding\Visual studio\TaskExample\TaskExample\obj\Debug\TaskExample.exe
+D:\Needed\Coding\Visual studio\TaskExample\TaskExample\obj\Debug\TaskExample.pdb

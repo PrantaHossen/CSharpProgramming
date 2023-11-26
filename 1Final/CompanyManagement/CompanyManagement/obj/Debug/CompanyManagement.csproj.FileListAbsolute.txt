@@ -1,0 +1,16 @@
+D:\Needed\Coding\Visual studio\FInal\CompanyManagement\CompanyManagement\obj\Debug\CompanyManagement.csproj.AssemblyReference.cache
+D:\Needed\Coding\Visual studio\FInal\CompanyManagement\CompanyManagement\obj\Debug\CompanyManagement.csproj.SuggestedBindingRedirects.cache
+D:\Needed\Coding\Visual studio\FInal\CompanyManagement\CompanyManagement\obj\Debug\CompanyManagement.csproj.CoreCompileInputs.cache
+D:\Needed\Coding\Visual studio\FInal\CompanyManagement\CompanyManagement\bin\Debug\CompanyManagement.exe.config
+D:\Needed\Coding\Visual studio\FInal\CompanyManagement\CompanyManagement\bin\Debug\CompanyManagement.exe
+D:\Needed\Coding\Visual studio\FInal\CompanyManagement\CompanyManagement\bin\Debug\CompanyManagement.pdb
+D:\Needed\Coding\Visual studio\FInal\CompanyManagement\CompanyManagement\obj\Debug\CompanyManagement.exe
+D:\Needed\Coding\Visual studio\FInal\CompanyManagement\CompanyManagement\obj\Debug\CompanyManagement.pdb
+D:\Needed\Coding\Visual studio\1Final\CompanyManagement\CompanyManagement\bin\Debug\CompanyManagement.exe.config
+D:\Needed\Coding\Visual studio\1Final\CompanyManagement\CompanyManagement\bin\Debug\CompanyManagement.exe
+D:\Needed\Coding\Visual studio\1Final\CompanyManagement\CompanyManagement\bin\Debug\CompanyManagement.pdb
+D:\Needed\Coding\Visual studio\1Final\CompanyManagement\CompanyManagement\obj\Debug\CompanyManagement.csproj.AssemblyReference.cache
+D:\Needed\Coding\Visual studio\1Final\CompanyManagement\CompanyManagement\obj\Debug\CompanyManagement.csproj.SuggestedBindingRedirects.cache
+D:\Needed\Coding\Visual studio\1Final\CompanyManagement\CompanyManagement\obj\Debug\CompanyManagement.csproj.CoreCompileInputs.cache
+D:\Needed\Coding\Visual studio\1Final\CompanyManagement\CompanyManagement\obj\Debug\CompanyManagement.exe
+D:\Needed\Coding\Visual studio\1Final\CompanyManagement\CompanyManagement\obj\Debug\CompanyManagement.pdb

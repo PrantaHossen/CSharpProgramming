@@ -1,0 +1,13 @@
+C:\Users\Pranta Hossen\source\repos\WinForm.cs\WinForm.cs\bin\Debug\WinForm.cs.exe.config
+C:\Users\Pranta Hossen\source\repos\WinForm.cs\WinForm.cs\bin\Debug\WinForm.cs.exe
+C:\Users\Pranta Hossen\source\repos\WinForm.cs\WinForm.cs\bin\Debug\WinForm.cs.pdb
+C:\Users\Pranta Hossen\source\repos\WinForm.cs\WinForm.cs\obj\Debug\WinForm.cs.csproj.AssemblyReference.cache
+C:\Users\Pranta Hossen\source\repos\WinForm.cs\WinForm.cs\obj\Debug\WinForm.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pranta Hossen\source\repos\WinForm.cs\WinForm.cs\obj\Debug\WinForm.cs.Form1.resources
+C:\Users\Pranta Hossen\source\repos\WinForm.cs\WinForm.cs\obj\Debug\WinForm.cs.Properties.Resources.resources
+C:\Users\Pranta Hossen\source\repos\WinForm.cs\WinForm.cs\obj\Debug\WinForm.cs.csproj.GenerateResource.cache
+C:\Users\Pranta Hossen\source\repos\WinForm.cs\WinForm.cs\obj\Debug\WinForm.cs.csproj.CoreCompileInputs.cache
+C:\Users\Pranta Hossen\source\repos\WinForm.cs\WinForm.cs\obj\Debug\WinForm.cs.exe
+C:\Users\Pranta Hossen\source\repos\WinForm.cs\WinForm.cs\obj\Debug\WinForm.cs.pdb
+C:\Users\Pranta Hossen\source\repos\WinForm.cs\WinForm.cs\bin\Debug\Database1.mdf
+C:\Users\Pranta Hossen\source\repos\WinForm.cs\WinForm.cs\bin\Debug\Database1_log.ldf

@@ -1,0 +1,8 @@
+D:\Needed\Coding\Visual studio\SelfInfo\SelfInfo\bin\Debug\SelfInfo.exe.config
+D:\Needed\Coding\Visual studio\SelfInfo\SelfInfo\bin\Debug\SelfInfo.exe
+D:\Needed\Coding\Visual studio\SelfInfo\SelfInfo\bin\Debug\SelfInfo.pdb
+D:\Needed\Coding\Visual studio\SelfInfo\SelfInfo\obj\Debug\SelfInfo.csproj.AssemblyReference.cache
+D:\Needed\Coding\Visual studio\SelfInfo\SelfInfo\obj\Debug\SelfInfo.csproj.SuggestedBindingRedirects.cache
+D:\Needed\Coding\Visual studio\SelfInfo\SelfInfo\obj\Debug\SelfInfo.csproj.CoreCompileInputs.cache
+D:\Needed\Coding\Visual studio\SelfInfo\SelfInfo\obj\Debug\SelfInfo.exe
+D:\Needed\Coding\Visual studio\SelfInfo\SelfInfo\obj\Debug\SelfInfo.pdb

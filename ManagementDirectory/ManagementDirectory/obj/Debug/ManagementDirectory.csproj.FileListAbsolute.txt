@@ -1,0 +1,11 @@
+D:\Needed\Coding\Visual studio\ManagementDirectory\ManagementDirectory\bin\Debug\ManagementDirectory.exe.config
+D:\Needed\Coding\Visual studio\ManagementDirectory\ManagementDirectory\bin\Debug\ManagementDirectory.exe
+D:\Needed\Coding\Visual studio\ManagementDirectory\ManagementDirectory\bin\Debug\ManagementDirectory.pdb
+D:\Needed\Coding\Visual studio\ManagementDirectory\ManagementDirectory\obj\Debug\ManagementDirectory.csproj.AssemblyReference.cache
+D:\Needed\Coding\Visual studio\ManagementDirectory\ManagementDirectory\obj\Debug\ManagementDirectory.csproj.SuggestedBindingRedirects.cache
+D:\Needed\Coding\Visual studio\ManagementDirectory\ManagementDirectory\obj\Debug\ManagementDirectory.Form1.resources
+D:\Needed\Coding\Visual studio\ManagementDirectory\ManagementDirectory\obj\Debug\ManagementDirectory.Properties.Resources.resources
+D:\Needed\Coding\Visual studio\ManagementDirectory\ManagementDirectory\obj\Debug\ManagementDirectory.csproj.GenerateResource.cache
+D:\Needed\Coding\Visual studio\ManagementDirectory\ManagementDirectory\obj\Debug\ManagementDirectory.csproj.CoreCompileInputs.cache
+D:\Needed\Coding\Visual studio\ManagementDirectory\ManagementDirectory\obj\Debug\ManagementDirectory.exe
+D:\Needed\Coding\Visual studio\ManagementDirectory\ManagementDirectory\obj\Debug\ManagementDirectory.pdb

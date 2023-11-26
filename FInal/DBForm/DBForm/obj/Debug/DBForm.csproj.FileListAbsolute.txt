@@ -1,0 +1,14 @@
+D:\Needed\Coding\Visual studio\FInal\DBForm\DBForm\bin\Debug\DBForm.exe.config
+D:\Needed\Coding\Visual studio\FInal\DBForm\DBForm\bin\Debug\DBForm.exe
+D:\Needed\Coding\Visual studio\FInal\DBForm\DBForm\bin\Debug\DBForm.pdb
+D:\Needed\Coding\Visual studio\FInal\DBForm\DBForm\obj\Debug\DBForm.csproj.AssemblyReference.cache
+D:\Needed\Coding\Visual studio\FInal\DBForm\DBForm\obj\Debug\DBForm.csproj.SuggestedBindingRedirects.cache
+D:\Needed\Coding\Visual studio\FInal\DBForm\DBForm\obj\Debug\DBForm.Form1.resources
+D:\Needed\Coding\Visual studio\FInal\DBForm\DBForm\obj\Debug\DBForm.Properties.Resources.resources
+D:\Needed\Coding\Visual studio\FInal\DBForm\DBForm\obj\Debug\DBForm.csproj.GenerateResource.cache
+D:\Needed\Coding\Visual studio\FInal\DBForm\DBForm\obj\Debug\DBForm.csproj.CoreCompileInputs.cache
+D:\Needed\Coding\Visual studio\FInal\DBForm\DBForm\obj\Debug\DBForm.exe
+D:\Needed\Coding\Visual studio\FInal\DBForm\DBForm\obj\Debug\DBForm.pdb
+D:\Needed\Coding\Visual studio\FInal\DBForm\DBForm\obj\Debug\DBForm.Form2.resources
+D:\Needed\Coding\Visual studio\FInal\DBForm\DBForm\obj\Debug\DBForm.Form3.resources
+D:\Needed\Coding\Visual studio\FInal\DBForm\DBForm\obj\Debug\DBForm.Form4.resources

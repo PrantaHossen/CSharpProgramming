@@ -1,0 +1,8 @@
+C:\Users\Pranta Hossen\source\repos\InheritanceTask\InheritanceTask\bin\Debug\InheritanceTask.exe.config
+C:\Users\Pranta Hossen\source\repos\InheritanceTask\InheritanceTask\bin\Debug\InheritanceTask.exe
+C:\Users\Pranta Hossen\source\repos\InheritanceTask\InheritanceTask\bin\Debug\InheritanceTask.pdb
+C:\Users\Pranta Hossen\source\repos\InheritanceTask\InheritanceTask\obj\Debug\InheritanceTask.csproj.AssemblyReference.cache
+C:\Users\Pranta Hossen\source\repos\InheritanceTask\InheritanceTask\obj\Debug\InheritanceTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pranta Hossen\source\repos\InheritanceTask\InheritanceTask\obj\Debug\InheritanceTask.csproj.CoreCompileInputs.cache
+C:\Users\Pranta Hossen\source\repos\InheritanceTask\InheritanceTask\obj\Debug\InheritanceTask.exe
+C:\Users\Pranta Hossen\source\repos\InheritanceTask\InheritanceTask\obj\Debug\InheritanceTask.pdb

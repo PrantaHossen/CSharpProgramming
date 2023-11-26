@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IndexerStudy", "IndexerStudy\IndexerStudy.csproj", "{05EF969F-A949-40D3-B27F-8FEF560C4971}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05EF969F-A949-40D3-B27F-8FEF560C4971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05EF969F-A949-40D3-B27F-8FEF560C4971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05EF969F-A949-40D3-B27F-8FEF560C4971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05EF969F-A949-40D3-B27F-8FEF560C4971}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2262F080-A52D-4469-94D2-2A9026AE6C37}
+	EndGlobalSection
+EndGlobal

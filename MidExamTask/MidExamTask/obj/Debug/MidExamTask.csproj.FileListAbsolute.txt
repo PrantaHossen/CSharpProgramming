@@ -1,0 +1,16 @@
+C:\Users\Pranta Hossen\source\repos\MidExamTask\MidExamTask\obj\Debug\MidExamTask.csproj.AssemblyReference.cache
+C:\Users\Pranta Hossen\source\repos\MidExamTask\MidExamTask\obj\Debug\MidExamTask.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pranta Hossen\source\repos\MidExamTask\MidExamTask\obj\Debug\MidExamTask.csproj.CoreCompileInputs.cache
+C:\Users\Pranta Hossen\source\repos\MidExamTask\MidExamTask\bin\Debug\MidExamTask.exe.config
+C:\Users\Pranta Hossen\source\repos\MidExamTask\MidExamTask\bin\Debug\MidExamTask.exe
+C:\Users\Pranta Hossen\source\repos\MidExamTask\MidExamTask\bin\Debug\MidExamTask.pdb
+C:\Users\Pranta Hossen\source\repos\MidExamTask\MidExamTask\obj\Debug\MidExamTask.exe
+C:\Users\Pranta Hossen\source\repos\MidExamTask\MidExamTask\obj\Debug\MidExamTask.pdb
+D:\Needed\Coding\Visual studio\MidExamTask\MidExamTask\bin\Debug\MidExamTask.exe.config
+D:\Needed\Coding\Visual studio\MidExamTask\MidExamTask\bin\Debug\MidExamTask.exe
+D:\Needed\Coding\Visual studio\MidExamTask\MidExamTask\bin\Debug\MidExamTask.pdb
+D:\Needed\Coding\Visual studio\MidExamTask\MidExamTask\obj\Debug\MidExamTask.csproj.AssemblyReference.cache
+D:\Needed\Coding\Visual studio\MidExamTask\MidExamTask\obj\Debug\MidExamTask.csproj.SuggestedBindingRedirects.cache
+D:\Needed\Coding\Visual studio\MidExamTask\MidExamTask\obj\Debug\MidExamTask.csproj.CoreCompileInputs.cache
+D:\Needed\Coding\Visual studio\MidExamTask\MidExamTask\obj\Debug\MidExamTask.exe
+D:\Needed\Coding\Visual studio\MidExamTask\MidExamTask\obj\Debug\MidExamTask.pdb

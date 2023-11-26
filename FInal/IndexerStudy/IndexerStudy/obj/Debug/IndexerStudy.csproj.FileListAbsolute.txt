@@ -1,0 +1,8 @@
+D:\Needed\Coding\Visual studio\FInal\IndexerStudy\IndexerStudy\bin\Debug\IndexerStudy.exe.config
+D:\Needed\Coding\Visual studio\FInal\IndexerStudy\IndexerStudy\bin\Debug\IndexerStudy.exe
+D:\Needed\Coding\Visual studio\FInal\IndexerStudy\IndexerStudy\bin\Debug\IndexerStudy.pdb
+D:\Needed\Coding\Visual studio\FInal\IndexerStudy\IndexerStudy\obj\Debug\IndexerStudy.csproj.AssemblyReference.cache
+D:\Needed\Coding\Visual studio\FInal\IndexerStudy\IndexerStudy\obj\Debug\IndexerStudy.csproj.SuggestedBindingRedirects.cache
+D:\Needed\Coding\Visual studio\FInal\IndexerStudy\IndexerStudy\obj\Debug\IndexerStudy.csproj.CoreCompileInputs.cache
+D:\Needed\Coding\Visual studio\FInal\IndexerStudy\IndexerStudy\obj\Debug\IndexerStudy.exe
+D:\Needed\Coding\Visual studio\FInal\IndexerStudy\IndexerStudy\obj\Debug\IndexerStudy.pdb

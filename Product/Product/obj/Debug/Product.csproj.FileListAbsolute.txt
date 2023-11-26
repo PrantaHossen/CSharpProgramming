@@ -1,0 +1,8 @@
+D:\Needed\Coding\Visual studio\Product\Product\bin\Debug\Product.exe.config
+D:\Needed\Coding\Visual studio\Product\Product\bin\Debug\Product.exe
+D:\Needed\Coding\Visual studio\Product\Product\bin\Debug\Product.pdb
+D:\Needed\Coding\Visual studio\Product\Product\obj\Debug\Product.csproj.AssemblyReference.cache
+D:\Needed\Coding\Visual studio\Product\Product\obj\Debug\Product.csproj.SuggestedBindingRedirects.cache
+D:\Needed\Coding\Visual studio\Product\Product\obj\Debug\Product.csproj.CoreCompileInputs.cache
+D:\Needed\Coding\Visual studio\Product\Product\obj\Debug\Product.exe
+D:\Needed\Coding\Visual studio\Product\Product\obj\Debug\Product.pdb

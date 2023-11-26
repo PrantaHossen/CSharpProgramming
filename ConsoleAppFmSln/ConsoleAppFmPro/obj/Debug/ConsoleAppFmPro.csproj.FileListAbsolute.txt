@@ -1,0 +1,8 @@
+C:\Users\Pranta Hossen\source\repos\ConsoleAppFmSln\ConsoleAppFmPro\bin\Debug\ConsoleAppFmPro.exe.config
+C:\Users\Pranta Hossen\source\repos\ConsoleAppFmSln\ConsoleAppFmPro\bin\Debug\ConsoleAppFmPro.exe
+C:\Users\Pranta Hossen\source\repos\ConsoleAppFmSln\ConsoleAppFmPro\bin\Debug\ConsoleAppFmPro.pdb
+C:\Users\Pranta Hossen\source\repos\ConsoleAppFmSln\ConsoleAppFmPro\obj\Debug\ConsoleAppFmPro.csproj.AssemblyReference.cache
+C:\Users\Pranta Hossen\source\repos\ConsoleAppFmSln\ConsoleAppFmPro\obj\Debug\ConsoleAppFmPro.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pranta Hossen\source\repos\ConsoleAppFmSln\ConsoleAppFmPro\obj\Debug\ConsoleAppFmPro.csproj.CoreCompileInputs.cache
+C:\Users\Pranta Hossen\source\repos\ConsoleAppFmSln\ConsoleAppFmPro\obj\Debug\ConsoleAppFmPro.exe
+C:\Users\Pranta Hossen\source\repos\ConsoleAppFmSln\ConsoleAppFmPro\obj\Debug\ConsoleAppFmPro.pdb

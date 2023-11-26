@@ -1,0 +1,11 @@
+C:\Users\Pranta Hossen\source\repos\Wform.cs\Wform.cs\bin\Debug\Wform.cs.exe.config
+C:\Users\Pranta Hossen\source\repos\Wform.cs\Wform.cs\bin\Debug\Wform.cs.exe
+C:\Users\Pranta Hossen\source\repos\Wform.cs\Wform.cs\bin\Debug\Wform.cs.pdb
+C:\Users\Pranta Hossen\source\repos\Wform.cs\Wform.cs\obj\Debug\Wform.cs.csproj.AssemblyReference.cache
+C:\Users\Pranta Hossen\source\repos\Wform.cs\Wform.cs\obj\Debug\Wform.cs.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pranta Hossen\source\repos\Wform.cs\Wform.cs\obj\Debug\Wform.cs.Form1.resources
+C:\Users\Pranta Hossen\source\repos\Wform.cs\Wform.cs\obj\Debug\Wform.cs.Properties.Resources.resources
+C:\Users\Pranta Hossen\source\repos\Wform.cs\Wform.cs\obj\Debug\Wform.cs.csproj.GenerateResource.cache
+C:\Users\Pranta Hossen\source\repos\Wform.cs\Wform.cs\obj\Debug\Wform.cs.csproj.CoreCompileInputs.cache
+C:\Users\Pranta Hossen\source\repos\Wform.cs\Wform.cs\obj\Debug\Wform.cs.exe
+C:\Users\Pranta Hossen\source\repos\Wform.cs\Wform.cs\obj\Debug\Wform.cs.pdb

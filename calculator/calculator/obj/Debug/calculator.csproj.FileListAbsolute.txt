@@ -1,0 +1,8 @@
+C:\Users\Pranta Hossen\source\repos\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Pranta Hossen\source\repos\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Pranta Hossen\source\repos\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Pranta Hossen\source\repos\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+C:\Users\Pranta Hossen\source\repos\calculator\calculator\obj\Debug\calculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pranta Hossen\source\repos\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\Pranta Hossen\source\repos\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Pranta Hossen\source\repos\calculator\calculator\obj\Debug\calculator.pdb
